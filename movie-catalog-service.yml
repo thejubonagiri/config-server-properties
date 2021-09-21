@@ -15,8 +15,6 @@ management.endpoints.web.exposure.include : "*"
 
 server.port : 9095
 
-spring.profiles.active : dev
-spring.cloud.config.url : http://localhost:8080
 
 
 
