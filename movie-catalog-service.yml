@@ -1,13 +1,13 @@
 my:
-  greeting : Hello there Theju!!
+  greeting : Hello there Theju and Deepu!!
   greetingDate : January 2021
-  greetingList : Test1 , Test2, Test3
+  greetingList : Test1 , Test2, Test3, Test4 .... 
 
 db:
   details : "{ url:'https://------' , dbName:'sql Database' , port:'4814'}"
   host : https://123
   address : 123.23.1.45.79
-  port : 9015
+  port : 9020
 
 
 
